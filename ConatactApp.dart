@@ -50,7 +50,7 @@ class ContactListScreen extends StatelessWidget {
                 enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(5),
                     borderSide: BorderSide(
-                        color: Colors.black
+                        color: Colors.black26
                     )
                 ),
                 focusedBorder: OutlineInputBorder(
@@ -73,7 +73,7 @@ class ContactListScreen extends StatelessWidget {
                 enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(5),
                     borderSide: BorderSide(
-                        color: Colors.black
+                        color: Colors.black26
                     )
                 ),
                 focusedBorder: OutlineInputBorder(
